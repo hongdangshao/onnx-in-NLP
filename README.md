@@ -1,4 +1,4 @@
-# onnx-on-NLP
+# onnx-in-NLP
 Since the onnx is main used in #CV, this project aims to learn the onnx in #NLP.
 
 A demo project for textcnn model(text classification).
